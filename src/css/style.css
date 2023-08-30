@@ -1,0 +1,18 @@
+img {
+  width:500px;
+}
+.descr {
+    width: 500px;
+    
+}
+
+.loader {
+  display: none;
+}
+.error {
+  display: none;
+}
+
+.breed-select {
+  visibility: hidden;
+}
